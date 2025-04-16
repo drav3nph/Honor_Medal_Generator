@@ -1,0 +1,9 @@
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.Form1.resources
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.Properties.Resources.resources
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.csproj.GenerateResource.cache
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\bin\Debug\Honor_Medal_Generator.exe.config
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\bin\Debug\Honor_Medal_Generator.exe
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\bin\Debug\Honor_Medal_Generator.pdb
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.exe
+C:\Users\Drav3n\source\repos\Honor_Medal_Generator\Honor_Medal_Generator\obj\Debug\Honor_Medal_Generator.pdb
